@@ -1,0 +1,14 @@
+[2023-07-23 15:02:26,321 INFO] Use GPU: 0 for training
+[2023-07-23 15:02:28,097 INFO] unlabeled data number: 9922, labeled data number 1236
+[2023-07-23 15:02:28,097 INFO] Create train and test data loaders
+[2023-07-23 15:02:28,098 INFO] [!] data loader keys: dict_keys(['train_lb', 'train_ulb', 'eval'])
+[2023-07-23 15:02:28,820 INFO] Create optimizer and scheduler
+[2023-07-23 15:02:28,904 INFO] Number of Trainable Params: 23528522
+[2023-07-23 15:02:34,415 INFO] Model testing
+[2023-07-23 15:03:31,198 INFO] Use GPU: 0 for training
+[2023-07-23 15:03:33,144 INFO] unlabeled data number: 9922, labeled data number 1236
+[2023-07-23 15:03:33,144 INFO] Create train and test data loaders
+[2023-07-23 15:03:33,145 INFO] [!] data loader keys: dict_keys(['train_lb', 'train_ulb', 'eval'])
+[2023-07-23 15:03:33,809 INFO] Create optimizer and scheduler
+[2023-07-23 15:03:33,817 INFO] Number of Trainable Params: 23528522
+[2023-07-23 15:03:38,496 INFO] Model testing
