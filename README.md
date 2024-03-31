@@ -36,7 +36,7 @@
 This is the implementation of **IAC** described in "Class-Imbalanced Semi-Supervised Learning with Inverse Auxiliary Classifier." The code is based on <a href="https://github.com/microsoft/Semi-supervised-learning/">USB </a>.
 
 ## Model Structure
-![Model Structure](./figures/structure.png)
+![Model Structure](./IAC/figures/structure.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
