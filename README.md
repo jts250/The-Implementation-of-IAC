@@ -76,7 +76,7 @@ python train.py --c config/classic_cv_imb/fixmatch_crest_iac/fixmatch_crest_iac_
 You can also develop your own CISSL algorithm and evaluate it by cloning UAC:
 
 ```sh
-git clone https://github.com/jts250/IAC.git
+git clone https://github.com/jts250/The-Implementation-of-IAC.git
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
