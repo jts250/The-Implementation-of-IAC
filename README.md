@@ -21,7 +21,7 @@
 <!-- <h3 align="center">Class-Imbalanced Semi-Supervised Learning with Inverse Auxiliary Classifier</h3> -->
 
 <p align="center">
-    <a href="https://papers.bmvc2023.org/0908.pdf">Class-Imbalanced Semi-Supervised Learning with Inverse Auxiliary Classifier
+    Class-Imbalanced Semi-Supervised Learning with Inverse Auxiliary Classifier <a href="https://papers.bmvc2023.org/0908.pdf">[pdf]
     <!-- <br /> -->
 </a>
   </p>
