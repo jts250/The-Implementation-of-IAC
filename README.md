@@ -122,7 +122,7 @@ If you have any problem, welcome to contact:
 
 <!-- CITE -->
 
-## Citing USB
+## Citing IAC
 
 Please cite us if you fine this project helpful for your project/paper:
 
